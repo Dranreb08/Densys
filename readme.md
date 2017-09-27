@@ -1,3 +1,8 @@
-# Laravel Quickstart - Intermediate - Task List With Authentication
+Dental Information System
 
-https://laravel.com/docs/5.2/quickstart-intermediate
+- Under Development (Versioning Only)
+
+Created By - BTG
+
+
+BTG | NPF | JPF
